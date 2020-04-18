@@ -6,7 +6,7 @@ module.exports = {
   // 打包后的输出目录
   dest: 'dist',
   // 配置 Github Pages 在哪个目录下访问
-  base: '/blog/',
+  // base: '/blog/',
   // 主题配置
   themeConfig: {
   	// 连接到github
