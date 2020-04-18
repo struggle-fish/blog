@@ -10,7 +10,7 @@ module.exports = {
   // 主题配置
   themeConfig: {
   	// 连接到github
-  	repo: 'https://github.com/struggle-fish',
+  	repo: 'https://github.com/struggle-fish/blog',
   	repoLabel: 'Github',
   	// 最后更新时间
     lastUpdated: '最后更新时间',
