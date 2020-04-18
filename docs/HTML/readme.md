@@ -1,0 +1,87 @@
+---
+<!-- sidebar: true -->
+---
+
+# 基础配置功能
+[[toc]]
+
+## 自动生成目录
+
+
+## HMTL 页面
+
+::: tip 提醒
+这里是tip容器
+:::
+
+::: warning 警告
+这里是警告容器
+:::
+
+::: danger 危险
+这里是危险容器
+:::
+
+## 代码块高亮及行号
+```js
+export default function sayHello () {
+  console.log('Hello');
+  console.log('World');
+  console.log('!');
+}
+```
+
+```css
+.box {
+  width: 100px;
+  height: 100px;
+}
+```
+
+```html
+	<div>江小鱼</div>
+```
+
+## 这里是Emoji表情 :tada:
+:100: :rocket:
+
+## Github 风格的表格
+| 序号          | 订单编号      | 订单金额|
+| -------------|:-------------:| ------:|
+| 1             | 20180101     | $1600  |
+| 2             | 20180102     |   $12  |
+| 3             | 20180103     |    $1  |
+
+## vue 插值表达式
+1 + 1 的结果是 {{1+1}}
+
+列表渲染的结果是：<span v-for="number in 5">{{number}}</span>
+
+## 使用原生的JS和CSS
+
+<!--样式内容-->
+<style >
+.box {
+  width: 100%;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  color: #fff;
+  background-color: #fb3;
+}
+</style>
+<div id="container"></div>
+
+<!--js内容-->
+<script>
+</script>
+
+## 使用内置组件
+
+### 外部链接
+[百度一下](https://www.baidu.com)
+
+## 静态图片
+![静态图片](~@images/wuliuqi.png)
+
+
