@@ -1,16 +1,16 @@
 ---
 home: true
 lang: zh-CN
-heroText:	江小鱼的学习之旅
+heroText:	
 heroImage: /wuliuqi.png
 actionText: 开始 →
 actionLink: /interview/
 features:
-- title: A Blog
-  details: 专注写作前端博客，记录日常点滴
-- title: For Me
-  details: 来点儿介绍可好
-- title: For Interview
-  details: 入坑前端 O(∩_∩)O比心
+- title: 博客
+  details: 记录日常点滴
+- title: 每日一题
+  details: 人类向天地学习的第一步永远都是在模仿
+- title: 读书
+  details: 生活的意义就是生活
 footer:  MIT Licensed | Copyright © 2020-present 江小鱼
 ---
