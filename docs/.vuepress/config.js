@@ -13,7 +13,7 @@ module.exports = {
     repo: "https://github.com/struggle-fish/blog",
     repoLabel: "Github",
     // 最后更新时间
-    lastUpdated: "最后更新时间",
+    // lastUpdated: "最后更新时间",
     // 搜索配置
     algolia: {
       apiKey: "<API_KEY>",
